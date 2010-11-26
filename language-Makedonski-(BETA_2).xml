@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Македонски (МК)" date_format="j F Y" time_format="H:i" decimal_point="." thousands_separator=",">
+  <phrase title="1_more_message" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[уште 1 мислење]]></phrase>
+  <phrase title="about" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[За]]></phrase>
+  <phrase title="about_you" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[За вас]]></phrase>
+  <phrase title="accepted_file_types" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прифатени видови на податотеки]]></phrase>
+  <phrase title="accept_future_messages" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прифаќај ги идните пораки]]></phrase>
+  <phrase title="accept_personal_conversations_from" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Примај лични конверзации од]]></phrase>
+  <phrase title="achievements" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Достигања]]></phrase>
+  <phrase title="action" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Акција]]></phrase>
+  <phrase title="action_available_via_post_only" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Oваа акција е достапна само преку HTTP POST. Ве молиме вратете се назад, освежете ја страната и обидете се повторно.]]></phrase>
+  <phrase title="activity_stream_for_all_registered_members_at_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Стрим на активност на сите регистирани членови регистрирани на {board_title}.]]></phrase>
+  <phrase title="add_account" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Додади профил]]></phrase>
+  <phrase title="add_additional_response" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Додади повеќе одговори]]></phrase>
+  <phrase title="admin_control_panel" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Администраторски панел]]></phrase>
+  <phrase title="admin_control_panel_login" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Најава во администраторски панел]]></phrase>
+  <phrase title="advanced_search" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Напредно пребарување]]></phrase>
+  <phrase title="age" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Возраст]]></phrase>
+  <phrase title="alerts" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Известувања]]></phrase>
+  <phrase title="alert_conversation_insert" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username} започна конверзација со вас под наслов {conversation}.]]></phrase>
+  <phrase title="alert_conversation_join" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username} ве покани да се придружите на конверзацијата {conversation}.]]></phrase>
+  <phrase title="alert_conversation_reply" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username} одговори на конверзацијата {conversation}.]]></phrase>
+  <phrase title="alert_preferences" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Опции за известувања]]></phrase>
+  <phrase title="alert_profile_post_insert" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username} напиша нешто на <a {profilePageLinkAttributes}>вашиот профил</a>.]]></phrase>
+  <phrase title="alert_user_following" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username} сега ве следи.]]></phrase>
+  <phrase title="align_center" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Центрирано]]></phrase>
+  <phrase title="align_left" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Порманување на лево]]></phrase>
+  <phrase title="align_right" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Порамни на десно]]></phrase>
+  <phrase title="allow_anyone_in_conversation_to_invite_others" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Дозволи секој во конверзацијата да покани други]]></phrase>
+  <phrase title="allow_other_people_to_see_what_page_you_currently_viewing" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Дозволи на другите да можат да видат што прегледувате]]></phrase>
+  <phrase title="allow_selection_of_multiple_responses" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Дозволи избор на повеќе одговори]]></phrase>
+  <phrase title="all_forums" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Сите форуми]]></phrase>
+  <phrase title="all_threads_from_x_containing_messages_not_viewed" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ова се сите теми од {board_title} што содржат мислења кои не сте ги прочитале.]]></phrase>
+  <phrase title="all_visitors" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Сите посетители]]></phrase>
+  <phrase title="also_comments_on_profile_post" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Исто така ќе коментира на порака на профил]]></phrase>
+  <phrase title="and_receive_email_notifications" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[и добивај известувања по е-пошта]]></phrase>
+  <phrase title="and_receive_email_notifications_of_replies" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[и добивај известувања за одговори на е-пошта]]></phrase>
+  <phrase title="approve" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Одобри]]></phrase>
+  <phrase title="approve_posts" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Одобри ги мислењата]]></phrase>
+  <phrase title="approve_threads" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Одобри ги темите]]></phrase>
+  <phrase title="ascending_order" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Растечки (нагорен)]]></phrase>
+  <phrase title="assigned" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Назначена]]></phrase>
+  <phrase title="assigned_to" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Назначена на]]></phrase>
+  <phrase title="associated_facebook_account" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Поврзан Facebook профил]]></phrase>
+  <phrase title="associate_account" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Поврзи ги профилите]]></phrase>
+  <phrase title="associate_existing_account" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Поврзи со постоечки профил]]></phrase>
+  <phrase title="associate_with" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Поврзи со]]></phrase>
+  <phrase title="attached_files" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прикачени податотеки]]></phrase>
+  <phrase title="automatically_watch_threads_you_create_or_when_you_reply" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Автоматски надгледувај ги темите што си ги направил или на кои си одговорил]]></phrase>
+  <phrase title="avatar" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Аватар]]></phrase>
+  <phrase title="avatar_editor" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Менување на аватар]]></phrase>
+  <phrase title="awaiting_moderation_before_being_displayed_publicly" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Чека во редица за модерирање пред да биде прикажана јавно.]]></phrase>
+  <phrase title="awarded" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Доделено]]></phrase>
+  <phrase title="a_moment_ago" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[пред неколку секунди]]></phrase>
+  <phrase title="ban_spammer" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Банирај го]]></phrase>
+  <phrase title="bb_codes" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[BB кодови]]></phrase>
+  <phrase title="birthday" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Роденден]]></phrase>
+  <phrase title="board_currently_being_upgraded" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Форумот моментално се ажурира. Ве молиме вратете се подоцна.]]></phrase>
+  <phrase title="bold_ctrl_b" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Болд (Ctrl+B)]]></phrase>
+  <phrase title="browsing_preferences" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прилагодувања за прелистување]]></phrase>
+  <phrase title="cancel" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Откажи]]></phrase>
+  <phrase title="cast_your_vote" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Гласај]]></phrase>
+  <phrase title="check_spammers_ips" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Провери ги IP адресите]]></phrase>
+  <phrase title="claim_and_handle_report" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Превземи и реши пријава]]></phrase>
+  <phrase title="clean_up" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Исчисти]]></phrase>
+  <phrase title="click_image_to_change_your_avatar" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Кликни на сликата за да го промениш аватарот.]]></phrase>
+  <phrase title="close" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Затвори]]></phrase>
+  <phrase title="closed_reports" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Затворени пријави]]></phrase>
+  <phrase title="closed_reports_x_y" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Затворени пријави:  од {from} - до {to}]]></phrase>
+  <phrase title="close_this_overlay" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Затвори го ова мени]]></phrase>
+  <phrase title="close_this_poll_after" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Затвори ја оваа анкета после]]></phrase>
+  <phrase title="comment" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Коментирај]]></phrase>
+  <phrase title="comments" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Коментари]]></phrase>
+  <phrase title="comments_newest_first" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Коментари (најновите прво)]]></phrase>
+  <phrase title="comments_on_your_profile_or_status" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ќе коментира на вашиот профил или статус]]></phrase>
+  <phrase title="comments_on_your_profile_posts_for_other_members" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ќе коментира на вашите пораки на профил на другите членови]]></phrase>
+  <phrase title="confirmation_ip" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[IP за потврда]]></phrase>
+  <phrase title="confirm_disassociation" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Потврди]]></phrase>
+  <phrase title="confirm_new_password" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Потврди ја лозинката]]></phrase>
+  <phrase title="confirm_password" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Потврди ја лозинката]]></phrase>
+  <phrase title="contact_details" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Контакт подесувања]]></phrase>
+  <phrase title="contact_us" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Контактирајте не]]></phrase>
+  <phrase title="contains_no_messages" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Не содржи пораки]]></phrase>
+  <phrase title="content" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Содржина]]></phrase>
+  <phrase title="content_creator" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Испраќаќ на содржината]]></phrase>
+  <phrase title="conversation" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Конверзација]]></phrase>
+  <phrase title="conversations" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Конверзации]]></phrase>
+  <phrase title="conversation_info" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Информации]]></phrase>
+  <phrase title="conversation_insert_email_html" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[<p>{receiver_username},</p>
+
+<p>{username} започна коверзација со вас со наслов "{title}".</p>
+
+<p>За да ја видите оваа конверзација, кликнете тука:<br />
+<a href="{view_link}">{view_link}</a></p>
+
+<p>------------<br />
+За да ги видите сите ваши активни конверзации, кликнете тука:<br />
+<a href="{inbox_link}">{inbox_link}</a></p>]]></phrase>
+  <phrase title="conversation_insert_email_subject" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username} започна конверзација со вас: "{title}"]]></phrase>
+  <phrase title="conversation_insert_email_text" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{receiver_username},
+
+{username} започна коверзација со вас со наслов "{title}".
+
+<p>За да ја видите оваа конверзација, одете тука:
+{view_link}
+
+------------
+За да ги видите сите ваши активни конверзации, одете тука:
+{inbox_link}]]></phrase>
+  <phrase title="conversation_participants" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Учесници во конверзацијата]]></phrase>
+  <phrase title="conversation_reply_email_html" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[<p>{receiver_username},</p>
+
+<p>{username} одговори на коверзацијата со наслов "{title}".</p>
+
+<p>За да ги видите последните одговори, кликнете тука:<br />
+<a href="{view_link}">{view_link}</a></p>
+
+<p>------------<br />
+За да ги видите сите ваши активни коверзации кликнете тука:<br />
+<a href="{inbox_link}">{inbox_link}</a></p>]]></phrase>
+  <phrase title="conversation_reply_email_subject" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username} одговори на вашата конверзација "{title}"]]></phrase>
+  <phrase title="conversation_reply_email_text" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{receiver_username},
+
+{username} одговори на коверзацијата со наслов "{title}".
+
+За да ги видите последните одговори, одете тука:
+{view_link}
+
+------------
+За да ги видите сите ваши активни коверзации одете тука:
+{inbox_link}]]></phrase>
+  <phrase title="conversation_title" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Наслов на конверзацијата]]></phrase>
+  <phrase title="create_new_account" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Направи нов профил]]></phrase>
+  <phrase title="create_thread" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Создади нова тема]]></phrase>
+  <phrase title="current_avatar" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Моментален аватар]]></phrase>
+  <phrase title="current_password" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Моментална лозинка]]></phrase>
+  <phrase title="current_status" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Моментален статус]]></phrase>
+  <phrase title="current_visitors" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Моментални посетители]]></phrase>
+  <phrase title="custom_title" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Титл по желба]]></phrase>
+  <phrase title="date_of_birth" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Датум на раѓање]]></phrase>
+  <phrase title="date_of_birth_privacy" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Приватност на датум на раѓање]]></phrase>
+  <phrase title="day" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[ден]]></phrase>
+  <phrase title="days" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[дена]]></phrase>
+  <phrase title="day_friday" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Петок]]></phrase>
+  <phrase title="day_friday_short" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Пет]]></phrase>
+  <phrase title="day_monday" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Понеделник]]></phrase>
+  <phrase title="day_monday_short" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Пон]]></phrase>
+  <phrase title="day_of_month" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ден од месецот]]></phrase>
+  <phrase title="day_of_week" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ден од неделата]]></phrase>
+  <phrase title="day_saturday" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Сабота]]></phrase>
+  <phrase title="day_saturday_short" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Саб]]></phrase>
+  <phrase title="day_sunday" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Недела]]></phrase>
+  <phrase title="day_sunday_short" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Нед]]></phrase>
+  <phrase title="day_thursday" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Четврток]]></phrase>
+  <phrase title="day_thursday_short" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Чет]]></phrase>
+  <phrase title="day_tuesday" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вторник]]></phrase>
+  <phrase title="day_tuesday_short" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вто]]></phrase>
+  <phrase title="day_wednesday" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Среда]]></phrase>
+  <phrase title="day_wednesday_short" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Сре]]></phrase>
+  <phrase title="day_x_at_time_y" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{day} во {time}]]></phrase>
+  <phrase title="delete" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Избриши]]></phrase>
+  <phrase title="deleted" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Важна]]></phrase>
+  <phrase title="deleted_by_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Отстранета од {name}]]></phrase>
+  <phrase title="delete_comment" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Избриши го коментарот]]></phrase>
+  <phrase title="delete_current_avatar" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Избриши го сегашниот аватар?]]></phrase>
+  <phrase title="delete_current_avatar_question" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Избриши го моменталниот аватар?]]></phrase>
+  <phrase title="delete_post" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Избриши порака]]></phrase>
+  <phrase title="delete_posts" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Избриши ги мислењата]]></phrase>
+  <phrase title="delete_profile_posts" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Избриши пораки на профил]]></phrase>
+  <phrase title="delete_profile_post_by_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Избриши порака од профилот на {name}]]></phrase>
+  <phrase title="delete_profile_post_comment_by_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Избриши коментар од профилот на {name}]]></phrase>
+  <phrase title="delete_spammers_messages" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Избриши ги пораките]]></phrase>
+  <phrase title="delete_spammers_threads" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Избриши ги темите]]></phrase>
+  <phrase title="delete_thread" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Избриши ја темата]]></phrase>
+  <phrase title="delete_threads" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Избриши ги темите]]></phrase>
+  <phrase title="descending_order" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Опаднувачки (надолен)]]></phrase>
+  <phrase title="deselect_posts" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Одселектирај ги мислењата]]></phrase>
+  <phrase title="deselect_threads" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Деселектирај ја темата]]></phrase>
+  <phrase title="destination_forum" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Премести во форум]]></phrase>
+  <phrase title="did_not_complete_the_captcha_verification_properly" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Не ја пополнивте CAPTCHA верификацијата точно. Ве молиме обидете се повторно.]]></phrase>
+  <phrase title="disassociate_facebook_account" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прекини го поврзувањето со Facebook профилот]]></phrase>
+  <phrase title="discussions" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Теми]]></phrase>
+  <phrase title="discussion_in_x_started_by_y_date_z" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Дискусија во форумот '{forum}' започната од {name}, {date}.]]></phrase>
+  <phrase title="display_results_as_threads" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прикажи ги резултатите како теми]]></phrase>
+  <phrase title="display_votes_publicly" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прикажи ги гласовите јавно]]></phrase>
+  <phrase title="do_nothing" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Не прави ништо]]></phrase>
+  <phrase title="do_not_change" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Не го менувај]]></phrase>
+  <phrase title="do_not_have_permission" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вие немате дозвола да ја видите оваа страна или да ја извршите таа акција.]]></phrase>
+  <phrase title="do_not_leave_redirect" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Не оставувај пренасочување]]></phrase>
+  <phrase title="do_you_already_have_password" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Дали веќе имате лозинка?]]></phrase>
+  <phrase title="drag_image_to_crop_then_click_okay_or_upload_new_avatar" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Повлечи ја оваа слика за да ја скратиш, потоа кликни <span class="saveHint">Океј</span> за да потврдиш или прикачи нов аватар подолу.]]></phrase>
+  <phrase title="edit" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Измени]]></phrase>
+  <phrase title="edit_conversation" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Измени ја конверзацијата]]></phrase>
+  <phrase title="edit_thread" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Измени ја темата]]></phrase>
+  <phrase title="edit_your_account_details" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Измени ги твоите детали на профилот]]></phrase>
+  <phrase title="edit_your_contact_details" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Измени ги твоите детали за контакт]]></phrase>
+  <phrase title="edit_your_personal_details" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Измени ги твоите лични детали]]></phrase>
+  <phrase title="edit_your_privacy_settings" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Измени ги твоите опции за приватност]]></phrase>
+  <phrase title="email" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Е-пошта]]></phrase>
+  <phrase title="email_address" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Е-пошта]]></phrase>
+  <phrase title="email_notifications_for_new_conversations_replies_to_existing" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Известувања за новите конверзации, одговори на конверзации или ако сте додадени на постоечка конверзација]]></phrase>
+  <phrase title="email_spammer" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Испрати му порака на е-пошта]]></phrase>
+  <phrase title="embed" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Внеси]]></phrase>
+  <phrase title="embed_media" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Внеси медиа]]></phrase>
+  <phrase title="engaged_in_conversation" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Учествува во конверзација]]></phrase>
+  <phrase title="enter_email_address_of_gravatar_you_want_to_use" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Внесете ја е-пошата на Gravatar-от што сакате да го користите.]]></phrase>
+  <phrase title="enter_image_url" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Внеси линк до сликата]]></phrase>
+  <phrase title="enter_media_url" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Внеси линк до содржината]]></phrase>
+  <phrase title="enter_your_password_in_first_box_and_confirm_it_in_second" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Внесете ја вашата лозинка во првото после, а потоа во вторто за да ја потврдите]]></phrase>
+  <phrase title="error" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Грешка]]></phrase>
+  <phrase title="example" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Пример]]></phrase>
+  <phrase title="facebook_integration" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Facebook поврзување]]></phrase>
+  <phrase title="female" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Женско]]></phrase>
+  <phrase title="find_all_content_by_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Најди ги сите содржини од {name}]]></phrase>
+  <phrase title="find_all_threads_by_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Најди ги сите теми од {name}]]></phrase>
+  <phrase title="find_member" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Пронајди член]]></phrase>
+  <phrase title="find_now" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Пребарај]]></phrase>
+  <phrase title="first_message_likes" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Допаѓања на првото мислење]]></phrase>
+  <phrase title="first_reported" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Најпрво пријавено]]></phrase>
+  <phrase title="follow" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Следи]]></phrase>
+  <phrase title="followers" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Следачи]]></phrase>
+  <phrase title="following" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ги следи]]></phrase>
+  <phrase title="following_error_occurred" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Се појави грешка:]]></phrase>
+  <phrase title="follow_people_to_fill_it" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Следете некои членови за да го исполните.]]></phrase>
+  <phrase title="font_family" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Фонт]]></phrase>
+  <phrase title="font_size" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Големина]]></phrase>
+  <phrase title="forgot_your_password" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ја заборавивте вашата лозинка?]]></phrase>
+  <phrase title="forum" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Форум]]></phrase>
+  <phrase title="forums" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Форуми]]></phrase>
+  <phrase title="forum_is_currently_closed_only_admins_may_access" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Форумот е моментално затворен и е достапен само за администраторите.]]></phrase>
+  <phrase title="forum_list" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Листа на форуми]]></phrase>
+  <phrase title="forum_statistics" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Статистика на форумот]]></phrase>
+  <phrase title="from_x_location" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[<span class="muted">од</span> {location}]]></phrase>
+  <phrase title="full_image" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Целосна слика]]></phrase>
+  <phrase title="future_message_handling" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Опции за идните пораки]]></phrase>
+  <phrase title="gender" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Пол]]></phrase>
+  <phrase title="general_links" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Главни линкови]]></phrase>
+  <phrase title="go" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[ОК]]></phrase>
+  <phrase title="go_to_content" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Оди до содржината]]></phrase>
+  <phrase title="go_to_first_message_in_thread" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Оди до првото мислење во темата]]></phrase>
+  <phrase title="go_to_first_unread" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Оди до првото непрочитано]]></phrase>
+  <phrase title="guest" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Гостин]]></phrase>
+  <phrase title="guests_online" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Гости онлајн]]></phrase>
+  <phrase title="handle_report" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Реши ја пријавата]]></phrase>
+  <phrase title="help" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Помош]]></phrase>
+  <phrase title="highest_posting_members" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Членови со најмногу мислења]]></phrase>
+  <phrase title="home" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Почетна]]></phrase>
+  <phrase title="home_page" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Веб-страна]]></phrase>
+  <phrase title="hours" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[часа]]></phrase>
+  <phrase title="identities" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Идентитети]]></phrase>
+  <phrase title="if_forgotten_your_password_use_form_to_reset" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Доколку сте ја заборавиле вашата лозинка можете да ја користите оваа форма за да ја регестирате. Ќе добиете порака на вашата е-пошта со детали.]]></phrase>
+  <phrase title="if_specified_replace_title_that_displays_under_name_in_posts" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Доколку е наведено, ова ќе го замени титлот што ќе се појавува под името во вашите мислења.]]></phrase>
+  <phrase title="if_you_change_your_email_you_may_need_to_reconfirm_your_account" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Доколку ја промените вашата е-пошта, можеби ќе треба повторно да го потврдите профилот.]]></phrase>
+  <phrase title="ignore_future_messages" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Игнорирај ги идните пораки]]></phrase>
+  <phrase title="image" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Слика]]></phrase>
+  <phrase title="inbox" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Сандаче]]></phrase>
+  <phrase title="incorrect_password" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Погрешна лозинка. Ве молиме обидете се повторно.]]></phrase>
+  <phrase title="indent" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Зголеми вовлекување]]></phrase>
+  <phrase title="information" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Информации]]></phrase>
+  <phrase title="insert" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Внеси]]></phrase>
+  <phrase title="insert_edit_image" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Внеси/измени слика]]></phrase>
+  <phrase title="insert_edit_link" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Внеси/измени линк]]></phrase>
+  <phrase title="insert_image" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Внеси слика]]></phrase>
+  <phrase title="interact" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Интеракции]]></phrase>
+  <phrase title="interface_of_site_can_be_displayed_using_any_languages" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Интерфејсот на сајтот може да биде прикажен на било кој од јазиците понудени тука.]]></phrase>
+  <phrase title="invited_members_see_entire_conversation" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Поканетите членови ќе можат да ја видат целата конверзација од почеток.]]></phrase>
+  <phrase title="invite_members" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Покани членови]]></phrase>
+  <phrase title="invite_members_to_conversation" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Поканување членови во конверзација]]></phrase>
+  <phrase title="invite_more" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Покани повеќе]]></phrase>
+  <phrase title="invite_more_members_to_participate_in_this_conversation" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Поканете повеќе членови да учестуваат во оваа конверзација]]></phrase>
+  <phrase title="italic_ctrl_i" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Курзив (Ctrl+I)]]></phrase>
+  <phrase title="item_will_remain_viewable_by_moderators_and_may_be_restored_at_later" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Оваа содржина ќе остане достапна за модераторите и ќе може да биде повратено подоцна.]]></phrase>
+  <phrase title="it_is_recommended_that_you_use_image_that_is_at_least_200x200_pixels" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Препорачливо е да користите слика која е барем 200x200 пиксели.]]></phrase>
+  <phrase title="i_agree_to_terms_and_rules" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Се согласувам со <a {terms_attributes}>правилата и условите</a>.]]></phrase>
+  <phrase title="joined" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Зачленет]]></phrase>
+  <phrase title="keywords" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Кучни зборови]]></phrase>
+  <phrase title="language" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Јазик]]></phrase>
+  <phrase title="language_chooser" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Избор на јазик]]></phrase>
+  <phrase title="last_activity" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Последна активност]]></phrase>
+  <phrase title="last_message" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Последно мислење]]></phrase>
+  <phrase title="last_message_time" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Време на последното мислење]]></phrase>
+  <phrase title="last_modified" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Последно изменето]]></phrase>
+  <phrase title="last_post" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Последна порака]]></phrase>
+  <phrase title="last_reply_date" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Датум на последен одговор]]></phrase>
+  <phrase title="last_reply_from" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Последен одговор од]]></phrase>
+  <phrase title="latest" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Последно]]></phrase>
+  <phrase title="latest_alerts" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Последни известувања]]></phrase>
+  <phrase title="latest_member" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Најнов член]]></phrase>
+  <phrase title="leave_conversation" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Напушти ја конверзацијата]]></phrase>
+  <phrase title="leave_permanent_redirect" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Остави пермаменто пренасочување]]></phrase>
+  <phrase title="leave_redirect_that_expires_after" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Остави пренасочување со трање од]]></phrase>
+  <phrase title="leaving_conversation_will_remove_it_from_your_conversation_list" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Со напуштање на конверзацијата  таа ќе биде отстранета од листата на конверзации.]]></phrase>
+  <phrase title="like" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ми се допаѓа]]></phrase>
+  <phrase title="likes" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Допаѓања]]></phrase>
+  <phrase title="likes_received" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Допаднати мислења]]></phrase>
+  <phrase title="likes_user1_and_user2_like_this" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[На {user1} и {user2} им се допаѓа ова.]]></phrase>
+  <phrase title="likes_user1_likes_this" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[На {user1} му/ѝ се допаѓа ова.]]></phrase>
+  <phrase title="likes_user1_user2_user3_and_x_others_like_this" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[На {user1}, {user2}, {user3} и уште <a href="{likesLink}" class="OverlayTrigger">{others} други</a> им се подаѓа ова.]]></phrase>
+  <phrase title="likes_your_message" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[На некој ќе му се допадне вашето мислење]]></phrase>
+  <phrase title="likes_your_profile_post" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[На некој ќе му се допадне пораката на профил]]></phrase>
+  <phrase title="likes_youve_received" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ваши допаднати мислења]]></phrase>
+  <phrase title="likes_you_and_user1_like_this" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[На тебе и на {user1} ви се допаѓа ова.]]></phrase>
+  <phrase title="likes_you_like_this" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ти се допаѓа ова.]]></phrase>
+  <phrase title="like_post" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ми се допаѓа]]></phrase>
+  <phrase title="list_of_bb_codes_you_can_use_to_spice_up_look_of_your_messages" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Листа на BB кодови што можете да ги искористие за форматирање на вашите мислења. Оваа страна прикажува листа на сите достапни BB кодови.]]></phrase>
+  <phrase title="loading" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вчитување]]></phrase>
+  <phrase title="location" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Локација]]></phrase>
+  <phrase title="locked" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Заклучена]]></phrase>
+  <phrase title="lock_conversation_no_responses_will_be_allowed" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Заклучи ја конверзацијата (нема да биде дозволени одговори)]]></phrase>
+  <phrase title="lock_threads" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Затвори ги темите]]></phrase>
+  <phrase title="login_with_facebook" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Најави се со Facebook]]></phrase>
+  <phrase title="log_in" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Најава]]></phrase>
+  <phrase title="log_in_or_sign_up" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Најави се]]></phrase>
+  <phrase title="log_out" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Одјави се]]></phrase>
+  <phrase title="lost_password" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Изгубена лозинка]]></phrase>
+  <phrase title="male" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Машко]]></phrase>
+  <phrase title="managing_account_details" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Изменува детали на профилот]]></phrase>
+  <phrase title="mark_all_forums_read" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Означи како прочитани]]></phrase>
+  <phrase title="mark_this_forum_read" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Означи го форумот како прочитан]]></phrase>
+  <phrase title="media" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Медиа]]></phrase>
+  <phrase title="members" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Членови]]></phrase>
+  <phrase title="members_following_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Членови кои го/ја следат {name}]]></phrase>
+  <phrase title="members_online" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Членови онлајн]]></phrase>
+  <phrase title="members_online_now" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Корисници онлајн]]></phrase>
+  <phrase title="members_only" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Само од членовите]]></phrase>
+  <phrase title="member_limits_viewing_profile" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Овој член го ограничува пристапот на тоа кој може да го види профилот.]]></phrase>
+  <phrase title="member_since" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Член од]]></phrase>
+  <phrase title="merge_posts" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Спои ги мислењата]]></phrase>
+  <phrase title="merge_threads" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Спои ги темите]]></phrase>
+  <phrase title="message" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Порака]]></phrase>
+  <phrase title="messages" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Мислења]]></phrase>
+  <phrase title="messages_in_threads" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Мислења во теми]]></phrase>
+  <phrase title="messages_on_profile_pages" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Пораки на профилни страници]]></phrase>
+  <phrase title="message_count" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Број на мислења]]></phrase>
+  <phrase title="messaging_preferences" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Подесувања за пораки]]></phrase>
+  <phrase title="minimum_number_of_replies" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Минимален број на одговори]]></phrase>
+  <phrase title="moderated" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Модерирана]]></phrase>
+  <phrase title="moderation_actions" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Модерирање]]></phrase>
+  <phrase title="moderation_queue" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Редица за модерирање]]></phrase>
+  <phrase title="moderation_queue_is_currently_empty" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Редицата за модерирање е моментално празна.]]></phrase>
+  <phrase title="months" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[месеци]]></phrase>
+  <phrase title="month_1" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Јануари]]></phrase>
+  <phrase title="month_10" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Октомври]]></phrase>
+  <phrase title="month_10_short" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Окт]]></phrase>
+  <phrase title="month_11" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ноември]]></phrase>
+  <phrase title="month_11_short" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ное]]></phrase>
+  <phrase title="month_12" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Декември]]></phrase>
+  <phrase title="month_12_short" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Дек]]></phrase>
+  <phrase title="month_1_short" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Јан]]></phrase>
+  <phrase title="month_2" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Февруари]]></phrase>
+  <phrase title="month_2_short" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Фев]]></phrase>
+  <phrase title="month_3" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Март]]></phrase>
+  <phrase title="month_3_short" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Мар]]></phrase>
+  <phrase title="month_4" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Април]]></phrase>
+  <phrase title="month_4_short" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Апр]]></phrase>
+  <phrase title="month_5" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Мај]]></phrase>
+  <phrase title="month_5_short" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Мај]]></phrase>
+  <phrase title="month_6" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Јуни]]></phrase>
+  <phrase title="month_6_short" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Јун]]></phrase>
+  <phrase title="month_7" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Јули]]></phrase>
+  <phrase title="month_7_short" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Јули]]></phrase>
+  <phrase title="month_8" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Август]]></phrase>
+  <phrase title="month_8_short" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Авг]]></phrase>
+  <phrase title="month_9" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Септември]]></phrase>
+  <phrase title="month_9_short" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Сеп]]></phrase>
+  <phrase title="more_options" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Повеќе]]></phrase>
+  <phrase title="most_recent" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Датум]]></phrase>
+  <phrase title="most_replies" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Број на одговори]]></phrase>
+  <phrase title="move_posts" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Премести ги мислењата]]></phrase>
+  <phrase title="move_thread" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Премести ја темата]]></phrase>
+  <phrase title="move_threads" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Премести ги темите]]></phrase>
+  <phrase title="multiple_votes_allowed" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Дозволени се повеќе гласови.]]></phrase>
+  <phrase title="name" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Име]]></phrase>
+  <phrase title="name_or_email" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Име или е-пошта]]></phrase>
+  <phrase title="new" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ново]]></phrase>
+  <phrase title="newer_than" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Понови од]]></phrase>
+  <phrase title="newest_members" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Најнови членови]]></phrase>
+  <phrase title="news_feed_disabled" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Новостите се искучени. Ова е можно да е искучено за да се зачуваат перформансите на форумот во случај не поголем сообраќај.]]></phrase>
+  <phrase title="news_feed_post_insert" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username} одговори на темата {threadTitle}.]]></phrase>
+  <phrase title="news_feed_post_update" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username} измени мислење во темата {threadTitle}.]]></phrase>
+  <phrase title="news_feed_profile_post_insert" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{usernamePoster} остави порака на профилот на {usernameReceiver}:]]></phrase>
+  <phrase title="news_feed_thread_insert" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username} започна нова тема:]]></phrase>
+  <phrase title="news_feed_user_avatar_change" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username} има нов аватар.]]></phrase>
+  <phrase title="news_feed_user_homepage" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username} постави своја веб-страница.]]></phrase>
+  <phrase title="news_feed_user_location_changed" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username} ја промени локацијата од {oldLocation} во {newLocation}.]]></phrase>
+  <phrase title="news_feed_user_location_set" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username} ја смени локацијата во {newLocation}.]]></phrase>
+  <phrase title="news_feed_user_occupation_set" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username} го постави своето занимање во {newOccupation}.]]></phrase>
+  <phrase title="new_follower" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Нов следач]]></phrase>
+  <phrase title="new_password" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Нова лозинка]]></phrase>
+  <phrase title="new_threads" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Нови теми]]></phrase>
+  <phrase title="new_trophy" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Нов трофеј]]></phrase>
+  <phrase title="next" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Следна]]></phrase>
+  <phrase title="none" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[нема]]></phrase>
+  <phrase title="not_notified_of_responses_conversation_remain_deleted" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вие нема да бидете известени за идни одговори на конверзацијата и таа ќе остане избришана.]]></phrase>
+  <phrase title="not_open_for_further_replies" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Затворена за нови мислења.]]></phrase>
+  <phrase title="no_create_account_now" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Не, направи нов профил сега.]]></phrase>
+  <phrase title="no_members_following_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Никој од членовите не го/ја следи {name}.]]></phrase>
+  <phrase title="no_permission_to_post" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[(немате дозвола да испраќате)]]></phrase>
+  <phrase title="no_permission_to_reply" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[немате дозовла да одговирте]]></phrase>
+  <phrase title="no_results_found" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Не беше пронајдено ништо.]]></phrase>
+  <phrase title="number_of_replies" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Број на одговори]]></phrase>
+  <phrase title="number_of_views" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Број на прегледи]]></phrase>
+  <phrase title="occupation" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Занимање]]></phrase>
+  <phrase title="okay" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Океј]]></phrase>
+  <phrase title="older" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Постари]]></phrase>
+  <phrase title="once_your_birthday_has_been_entered_it_cannot_be_changed" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Откако вашиот датум на раѓање е внесен, не може да биде променет. Контактирајте администратор доколку е погрешен.]]></phrase>
+  <phrase title="one_minute_ago" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[пред една минута]]></phrase>
+  <phrase title="online_now_x_members_y_guests_z" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Моментално онлајн: {total} (членови: {members}, гости: {guests})]]></phrase>
+  <phrase title="online_statistics" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Онлајн статистика]]></phrase>
+  <phrase title="only_visible_members_counted" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[прикажани се само видливите членови]]></phrase>
+  <phrase title="open" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Отворена]]></phrase>
+  <phrase title="open_quick_navigation" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Отвори го менито за брза навигација]]></phrase>
+  <phrase title="options" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Опции]]></phrase>
+  <phrase title="ordered_list" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Нумерирање]]></phrase>
+  <phrase title="order_by" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Подреди според]]></phrase>
+  <phrase title="order_threads_in" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Начин на подредување]]></phrase>
+  <phrase title="other_action" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Друга акција]]></phrase>
+  <phrase title="outdent" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Намали вовлекување]]></phrase>
+  <phrase title="output" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Резултат]]></phrase>
+  <phrase title="page_views" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прегледи]]></phrase>
+  <phrase title="page_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[ | Страна {page}]]></phrase>
+  <phrase title="page_x_of_y" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Страна {current} од {total}]]></phrase>
+  <phrase title="participants" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Учесници]]></phrase>
+  <phrase title="password" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Лозинка]]></phrase>
+  <phrase title="password_of_x_account_wish_to_associate_with_not_facebook" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ова е лозинката на вашиот профил на {board_title} со кој сакате да се поврзете. Ова НЕ е вашата Facebook лозинка.]]></phrase>
+  <phrase title="password_reset_request_has_been_emailed_to_you" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Барање за ресетирање на лозинка беше испратена на вашата е пошта. Ве молиме следете ги инструкциите во пораката.]]></phrase>
+  <phrase title="people_may_reply_to_this_thread" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Членовите ќе може да одговарат на оваа тема]]></phrase>
+  <phrase title="people_who_may" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Луѓе кои можат да]]></phrase>
+  <phrase title="people_you_follow" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Луѓе кои ги следиш]]></phrase>
+  <phrase title="people_you_follow_only" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Само од луѓето кои ги следиш]]></phrase>
+  <phrase title="permanently_delete" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Пермаментно бришење]]></phrase>
+  <phrase title="personal_conversations" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Лични конверзации]]></phrase>
+  <phrase title="personal_details" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Лични подесувања]]></phrase>
+  <phrase title="please_correct_following_errors" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ве молиме поправете ги следниве грешки]]></phrase>
+  <phrase title="please_enter_message_with_no_more_than_x_characters" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ве молиме внесете пораки не подолга од {count} карактери.]]></phrase>
+  <phrase title="please_enter_valid_date_of_birth" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ве молиме внесете валиден датум на раѓање.]]></phrase>
+  <phrase title="please_enter_valid_email" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ве молиме внесете валидна е-пошта.]]></phrase>
+  <phrase title="please_enter_valid_message" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ве молиме внесете валидна порака.]]></phrase>
+  <phrase title="please_enter_valid_password" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ве молиме внесете валидна лозинка.]]></phrase>
+  <phrase title="please_specify_search_query_or_name_of_member" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Ве молиме внесете го поимот или корисничкото име кое сакате да го побарате.]]></phrase>
+  <phrase title="points" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Поени]]></phrase>
+  <phrase title="poll_choice" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Избор за анкетата]]></phrase>
+  <phrase title="possible_responses" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Можни одговори]]></phrase>
+  <phrase title="post" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Испрати]]></phrase>
+  <phrase title="posted" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Испратено на]]></phrase>
+  <phrase title="posted_by" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Испратено од]]></phrase>
+  <phrase title="posted_by_member" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Испратени од членот]]></phrase>
+  <phrase title="postings" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Теми и мислења]]></phrase>
+  <phrase title="posts_on_your_profile" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ви напише нешто на вашиот профил]]></phrase>
+  <phrase title="post_comment" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Коментирај]]></phrase>
+  <phrase title="post_messages_on_your_profile_page" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Да испраќаат пораки на вашиот профил]]></phrase>
+  <phrase title="post_new_thread" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Започни нова тема]]></phrase>
+  <phrase title="post_poll" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Направи анкета]]></phrase>
+  <phrase title="post_reply" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Испрати го мислење]]></phrase>
+  <phrase title="preferences" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прилагодувања]]></phrase>
+  <phrase title="prev" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Претходна]]></phrase>
+  <phrase title="preview" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прегледај]]></phrase>
+  <phrase title="privacy" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Приватност]]></phrase>
+  <phrase title="profile_page" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Профил страница]]></phrase>
+  <phrase title="profile_posts" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Пораки на профилот]]></phrase>
+  <phrase title="profile_post_for_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Објава на профилот на {username}]]></phrase>
+  <phrase title="published" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Објавено]]></phrase>
+  <phrase title="question" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прашање]]></phrase>
+  <phrase title="quick_links" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Брзи линкови]]></phrase>
+  <phrase title="quick_navigation_menu" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Мени за брза навигација]]></phrase>
+  <phrase title="quotes_your_message" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ќе го цитира вашето мислење]]></phrase>
+  <phrase title="reason" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Причина]]></phrase>
+  <phrase title="recaptcha_enter_both_words_reload_listen_to_audio" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Внеси ги двата збора. <a {reload_params}">Освежи</a> или <a {switch_params}>слушни како звук</a>. Од reCAPTCHA.]]></phrase>
+  <phrase title="receive_alert_when_someone" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Добивај известувања кога некој]]></phrase>
+  <phrase title="receive_alert_when_you_receive" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Добивај известување кога ќе добиеш]]></phrase>
+  <phrase title="receive_email_when_new_conversation_message_is_received" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Примај пораки кога ќе добиеш нова конверзација]]></phrase>
+  <phrase title="receive_site_mailings" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Примај ги пораките од форумот]]></phrase>
+  <phrase title="receive_your_news_feed" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Да ги добиваат вашите новости]]></phrase>
+  <phrase title="receiving_member" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Примател]]></phrase>
+  <phrase title="recent_activity" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Скорешна активност]]></phrase>
+  <phrase title="redirection_notice" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Пренасочувачка забелешка]]></phrase>
+  <phrase title="redirect_changes_saved_successfully" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вашите промени беа успешно зачувани.]]></phrase>
+  <phrase title="redo_ctrl_y" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Повтори (Ctrl+Y)]]></phrase>
+  <phrase title="registered_members" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Регистрирани членови]]></phrase>
+  <phrase title="registration_ip" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[IP на регистрација]]></phrase>
+  <phrase title="rejected" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Одбиено]]></phrase>
+  <phrase title="remove_formatting" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Отстрани го форматирањето]]></phrase>
+  <phrase title="remove_from_public_view" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Отстрани од јавен преглед]]></phrase>
+  <phrase title="reopen_via_admin_control_panel" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Отвори го преку администраторскиот панел]]></phrase>
+  <phrase title="replies" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Одговори]]></phrase>
+  <phrase title="replies_to_watched_thread" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ќе одговри на надгледувана тема]]></phrase>
+  <phrase title="reply" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Одговори]]></phrase>
+  <phrase title="reply_to_conversation" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Одговори на конверзацијата]]></phrase>
+  <phrase title="reply_to_thread" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Одговори на темата]]></phrase>
+  <phrase title="reply_to_watched_thread_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Одговор на надгледувана тема: {title}]]></phrase>
+  <phrase title="reply_to_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Одговор на {title}]]></phrase>
+  <phrase title="report" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Пријави]]></phrase>
+  <phrase title="reported" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Пријавено]]></phrase>
+  <phrase title="reported_items" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Пријави]]></phrase>
+  <phrase title="report_info" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Информации за пријавата]]></phrase>
+  <phrase title="report_profile_post" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Пријави мислење на профил]]></phrase>
+  <phrase title="report_reason" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Причина за пријавата]]></phrase>
+  <phrase title="report_status" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Статус на пријавата]]></phrase>
+  <phrase title="requested_member_not_found" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Членот што го баравте не постои.]]></phrase>
+  <phrase title="requested_page_not_found" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Страницата што ја побаравте не постои.]]></phrase>
+  <phrase title="requested_poll_not_found" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Анкетата што ја баравте не постои.]]></phrase>
+  <phrase title="requested_post_not_found" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Мислењето што го баравте не постои.]]></phrase>
+  <phrase title="requested_profile_post_not_found" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Пораката на профилот што ја барате не постои.]]></phrase>
+  <phrase title="requested_report_not_found" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Пријавата што ја баравте не постои.]]></phrase>
+  <phrase title="requested_style_not_found" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Стилот што го баравте не постои.]]></phrase>
+  <phrase title="requested_thread_not_found" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Темата што ја баравте не постои.]]></phrase>
+  <phrase title="requested_trophy_not_found" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Трофејот што го баравте не постои.]]></phrase>
+  <phrase title="requested_user_x_not_found" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Корисничкото име „{name}“ не постои.]]></phrase>
+  <phrase title="resend_account_confirmation" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Препратување на потврда]]></phrase>
+  <phrase title="resend_confirmation_email" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Препрати ја потврдата]]></phrase>
+  <phrase title="resend_email" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Препрати]]></phrase>
+  <phrase title="reset_password" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ресетирај лозинка]]></phrase>
+  <phrase title="resolved" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Решено]]></phrase>
+  <phrase title="return_to_forum_home_page" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Врати се на почетната страна на форумот]]></phrase>
+  <phrase title="return_to_page_you_were_viewing" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Врати се на страната што ја прегледуваше]]></phrase>
+  <phrase title="save" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Зачувај]]></phrase>
+  <phrase title="save_changes" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Зачувај]]></phrase>
+  <phrase title="search" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Барај]]></phrase>
+  <phrase title="search_again" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Пребарај повторно]]></phrase>
+  <phrase title="search_child_forums_as_well" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Пребарај ги и под-форумите]]></phrase>
+  <phrase title="search_forums" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Пребарај го форумот]]></phrase>
+  <phrase title="search_results" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Резултати од барањето]]></phrase>
+  <phrase title="search_results_for_query" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Резултати од барањето за]]></phrase>
+  <phrase title="search_this_forum" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Пребарај го овој форум]]></phrase>
+  <phrase title="search_threads_and_posts" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Пребарај теми и мислења]]></phrase>
+  <phrase title="search_threads_started_by_this_member_only" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Барај теми започнати само од овој член]]></phrase>
+  <phrase title="search_titles_only" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Пребарувај само наслови]]></phrase>
+  <phrase title="security_error_occurred" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Се појави безбедносна грешка. Ве молиме вратете се назад, освежете ја страната и пробајте повторно.]]></phrase>
+  <phrase title="selected_posts" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Селектирани мислења]]></phrase>
+  <phrase title="selected_threads" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Селектирани теми]]></phrase>
+  <phrase title="selecting_this_option_will_permanently_and_irreversibly_delete_item" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Со избирање на оваа опција содржината ќе биде засекогаш избишана и не ќе може да се поврати.]]></phrase>
+  <phrase title="select_all" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Селектирај сѐ]]></phrase>
+  <phrase title="select_for_thread_moderation" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Селектирај ја темата за модерирање]]></phrase>
+  <phrase title="select_language_in_which_this_site_should_be_shown" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Избери го јазикот на кој би сакале сајтот да биде прикажан
+]]></phrase>
+  <phrase title="select_style_in_which_this_site_should_be_shown" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Избери го стилот на кој би сакале сајтот да биде прикажан]]></phrase>
+  <phrase title="select_this_post" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Селектирај го ова мислење]]></phrase>
+  <phrase title="select_this_post_by_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Селектирај го ова мислење од {name}]]></phrase>
+  <phrase title="select_thread" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Селектирај ја темата]]></phrase>
+  <phrase title="separate_names_with_comma" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Одделете ги имињата со запирка.]]></phrase>
+  <phrase title="server_error_occurred" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Се случи серверска грешка. Ве молиме обидете се повторно.]]></phrase>
+  <phrase title="settings" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Подесувања]]></phrase>
+  <phrase title="set_options" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Зачувај]]></phrase>
+  <phrase title="set_thread_status" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Постави статус на темата]]></phrase>
+  <phrase title="should_conversation_receive_responses_restored_to_inbox" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Доколку конверзацијата добие одговор, таа ќе биде вратена во вашето сандаче.]]></phrase>
+  <phrase title="show" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прикажи]]></phrase>
+  <phrase title="showing_results_x_to_y_of_z" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прикажување {start} од {end} резултати од вкупно {total}]]></phrase>
+  <phrase title="showing_threads_x_to_y_of_z" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прикажување на {start} до {end}  теми од вкупно {total}]]></phrase>
+  <phrase title="show_all" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прикажи ги сите]]></phrase>
+  <phrase title="show_all_watched_threads" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прикажи ги сите надгледувани теми.]]></phrase>
+  <phrase title="show_day_and_month_of_birth" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прикажи ден и месец на раѓање]]></phrase>
+  <phrase title="show_older_items" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прикажи постари содржини]]></phrase>
+  <phrase title="show_online_status" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прикажи статус]]></phrase>
+  <phrase title="show_peoples_signatures_with_their_messages" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прикажи ги потписите на членовите во нивните мислења]]></phrase>
+  <phrase title="show_year_of_birth" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прикажи година на раѓање]]></phrase>
+  <phrase title="show_your_online_status" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прикажи го вашиот онлајн статус]]></phrase>
+  <phrase title="signature" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Потпис]]></phrase>
+  <phrase title="signed_in_as_x_sidebar" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[<span class="muted">Најавени сте како</span> {name}]]></phrase>
+  <phrase title="sign_up" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Регистрирај се]]></phrase>
+  <phrase title="sign_up_now" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Регистрирај се!]]></phrase>
+  <phrase title="sign_up_with_facebook" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Регистрирај се со Facebook]]></phrase>
+  <phrase title="smilies" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Смешковци]]></phrase>
+  <phrase title="someone_comments_on_message_on_your_profile_page_or_your_status" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Некој коментира на вашата профил страница или на вашиот статус]]></phrase>
+  <phrase title="someone_comments_on_message_you_left_on_someone_elses_profile" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Некој коментира на порака што сте ја оставиле профилот на некој член]]></phrase>
+  <phrase title="someone_comments_on_profile_post_that_you_have_commented_on" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Некој коментира на порака на профил на која што вие имате коментирано]]></phrase>
+  <phrase title="someone_directly_quotes_one_of_your_messages_in_thread" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Некој директно цитира едно од вашите мислења во некоја тема]]></phrase>
+  <phrase title="someone_likes_message_you_left_on_member_profile_page" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[ На некој му се допаѓа пораката што сте ја оставиле на некоја профил страница]]></phrase>
+  <phrase title="someone_likes_one_of_your_messages_in_thread" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[На некој му се допаѓа едно од вашите мислења во некоја тема]]></phrase>
+  <phrase title="someone_posts_message_on_your_profile_page" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Некој ви напише порака на вашата профил страница]]></phrase>
+  <phrase title="someone_replies_to_thread_you_are_watching" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Некој одговара на тема што ја надгледувате]]></phrase>
+  <phrase title="someone_starts_following_you" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Некој почнува да ве следи]]></phrase>
+  <phrase title="sort_by" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Подреди]]></phrase>
+  <phrase title="sort_threads_by" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Подреди ги темите според]]></phrase>
+  <phrase title="spam" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Спам]]></phrase>
+  <phrase title="spam_cleaner" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Чистач на спам]]></phrase>
+  <phrase title="spam_cleaner_controls" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Опции за чистачот на спам]]></phrase>
+  <phrase title="specified_member_cannot_be_found_enter_entire_name" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Членот што го баравте не беше пронајден. Ве молиме внесете го целосното име.]]></phrase>
+  <phrase title="staff_online_now" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Администрација онлајн]]></phrase>
+  <phrase title="start_conversation" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Започни конверзација]]></phrase>
+  <phrase title="start_date" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Време на започнување]]></phrase>
+  <phrase title="start_new_conversation" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Започни конверзација]]></phrase>
+  <phrase title="start_personal_conversations_with_you" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Да започнат лични конверзации со вас]]></phrase>
+  <phrase title="state" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Статус]]></phrase>
+  <phrase title="status" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Статус]]></phrase>
+  <phrase title="status_changed" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Статусот е променет во]]></phrase>
+  <phrase title="status_message" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Статус порака]]></phrase>
+  <phrase title="stay_logged_in" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Запомни ме?]]></phrase>
+  <phrase title="sticky" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Важна]]></phrase>
+  <phrase title="sticky_threads_appear_at_top_of_first_page_of_list_of_threads" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Залепените (важните) теми се појавуаат на врвот на листата на теми]]></phrase>
+  <phrase title="stick_threads" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Постави ги како важни]]></phrase>
+  <phrase title="stop_watching" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Не ја надгледувај]]></phrase>
+  <phrase title="stop_watching_this_thread" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Престани да ја надгледуваш темата]]></phrase>
+  <phrase title="style" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Стил]]></phrase>
+  <phrase title="style_chooser" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Избор на стилови]]></phrase>
+  <phrase title="subject" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Наслов]]></phrase>
+  <phrase title="sub_forums" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Под-форуми]]></phrase>
+  <phrase title="sure_you_want_to_resend_account_confirmation_email" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Дали сте сигурни дека сакате повторно да испратите потврда на вашата е-пошта? Сите претходни потврди нема да бидат валидни. Пораката ќе биде испратена до {email}.]]></phrase>
+  <phrase title="terms_and_rules" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Правила и услови]]></phrase>
+  <phrase title="terms_of_service_and_rules" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Правила и услови на користење]]></phrase>
+  <phrase title="terms_rules_text" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[<p>Луѓето кои го овозможиле овој сервис („ние“) не се одговорни содржината на пораките. Сите мислења покажуваат погледи само од нивниот автор.</p>
+
+<p>Вие се согласувате дека нема да го користите овој сервис за да испраќате пораки со заканувачка, злоупотребувачка, навредлива или слична содржина.</p>
+
+<p>Ние го задржуваме правото да ги измениме или отстраниме мислењата без никакво претходно предупредување.</p>]]></phrase>
+  <phrase title="test" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Тестирај]]></phrase>
+  <phrase title="text" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Текст]]></phrase>
+  <phrase title="text_color" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Боја на текстот]]></phrase>
+  <phrase title="thanks_for_registering_to_complete_registration_follow_link" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ви благодариме за регистрацијата. За да ја завршите регистрацијата морате да го следите линкот што ви беше испратен на вашата е-пошта.]]></phrase>
+  <phrase title="thank_you_for_purchasing_this_upgrade" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ви благодариме што ја купивте оваа надградба.]]></phrase>
+  <phrase title="thank_you_for_reporting_this_message" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ви благодариме за вашата пријава.]]></phrase>
+  <phrase title="there_may_be_more_to_view" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Би можело да има повеќе.]]></phrase>
+  <phrase title="there_no_active_reports_requiring_your_attention" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Моментално нема активни пријави што го бараат вашето внимание.]]></phrase>
+  <phrase title="there_no_messages_on_xs_profile_yet" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[На профилот на {name} сеуште нема пораки.]]></phrase>
+  <phrase title="there_no_threads_to_display" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Нема теми за приказ.]]></phrase>
+  <phrase title="this_is_list_of_all_members_registered_at_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ова е листа на сите регистрирани членови на {board_title}.]]></phrase>
+  <phrase title="this_is_list_of_all_threads_that_you_watching" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ова е листа на сите теми што ги надгледувате.]]></phrase>
+  <phrase title="this_is_list_of_all_visitors_currently_browsing_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ова е листа на посетители кои моментално го прелистувааат форумот {board_title}.]]></phrase>
+  <phrase title="this_is_list_of_x_most_recently_updated_threads_unread_replies" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ова е листа на {count} скоро обновени теми со непрочитани одговори кои ги надгледувате.]]></phrase>
+  <phrase title="this_is_name_that_will_be_shown_with_your_messages" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ова е името што ќе биде прикажано во сите ваши мислења и пораки. Можете да напишете било кое име. Откако ќе биде избрано, името не може да биде променето.]]></phrase>
+  <phrase title="this_is_only_needed_when_changing_your_email_address" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ова е потребно само доколку ја променувата вашата е-пошта.]]></phrase>
+  <phrase title="this_member_matches_email_address_associated_with_your_facebook_account" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Е-поштата на овој член се совпаѓа со вашата е-пошта на Facebook профилот.]]></phrase>
+  <phrase title="this_message_by_x_has_been_removed_from_view" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Оваа порака од {name} беше отстранета од јавен преглед.]]></phrase>
+  <phrase title="this_message_has_been_removed_from_public_view" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Оваа порака беше отстранета од јавен преглед.]]></phrase>
+  <phrase title="this_poll_will_close_on_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Оваа анкета ќе се затвори на {close_date}.]]></phrase>
+  <phrase title="this_shows_full_list_of_smilies_you_can_insert_when_posting_message" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ова прикажува листа на смешковци што ќе можете да ги внесете во вашите мислења.]]></phrase>
+  <phrase title="this_will_allow_other_people_to_see_what_page_you_currently_viewing" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Оваа опција овозможува другите да видат што моментално прегледувате.]]></phrase>
+  <phrase title="this_will_allow_people_to_see_your_age" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Со оваа опција другите ќе можат да ја видат вашата возраст.]]></phrase>
+  <phrase title="thread" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Тема]]></phrase>
+  <phrase title="threads" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Теми]]></phrase>
+  <phrase title="thread_creation_time" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Време на создавање на темата]]></phrase>
+  <phrase title="thread_display_options" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Опции за прикажување на темите]]></phrase>
+  <phrase title="thread_status" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Статус на темата]]></phrase>
+  <phrase title="thread_tools" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Алатки за тема]]></phrase>
+  <phrase title="thumbnail" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Мала слика]]></phrase>
+  <phrase title="time_zone" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Временска зона]]></phrase>
+  <phrase title="title" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Наслов]]></phrase>
+  <phrase title="title_alphabetical" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Наслов (апфабетично)]]></phrase>
+  <phrase title="today" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[денес]]></phrase>
+  <phrase title="today_at_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[денес во {time}]]></phrase>
+  <phrase title="top" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[На врв]]></phrase>
+  <phrase title="total_points" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вкупно поени]]></phrase>
+  <phrase title="total_visitors" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вкупно посетители]]></phrase>
+  <phrase title="trophies" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Трофеи]]></phrase>
+  <phrase title="trophies_awarded_to_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Трофеи освоени од {name}]]></phrase>
+  <phrase title="trophy_points" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Поени од трофеи]]></phrase>
+  <phrase title="unapprove_posts" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Неодобрувај ги мислења]]></phrase>
+  <phrase title="unapprove_threads" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Не ги одобрувај темите]]></phrase>
+  <phrase title="undelete_posts" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Поврати ги мислењата]]></phrase>
+  <phrase title="undelete_threads" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Поврати ги темите]]></phrase>
+  <phrase title="underline_ctrl_u" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Подвлечено (Ctrl+U)]]></phrase>
+  <phrase title="undo_ctrl_z" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Отправи (Ctrl+Z)]]></phrase>
+  <phrase title="unfollow" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Престани да го/ја следиш]]></phrase>
+  <phrase title="unlike" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Не ми се допаѓа]]></phrase>
+  <phrase title="unlike_post" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Не ми се допаѓа]]></phrase>
+  <phrase title="unlink" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Отстрани линк]]></phrase>
+  <phrase title="unlock_threads" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Отвори ги темите]]></phrase>
+  <phrase title="unordered_list" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Репери]]></phrase>
+  <phrase title="unread_watched_threads" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Непрочитани надгледувани теми]]></phrase>
+  <phrase title="unspecified" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[ненаведено]]></phrase>
+  <phrase title="unstick_threads" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Отстрани ги како важни]]></phrase>
+  <phrase title="unwatch_thread" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Не ја надгледувај темата]]></phrase>
+  <phrase title="update_moderation_queue" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Обнови редица за модерирање]]></phrase>
+  <phrase title="update_report" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Обнови ја пријавата]]></phrase>
+  <phrase title="update_your_status" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Обнови го твојот статус]]></phrase>
+  <phrase title="upload_file" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прикачи податотека]]></phrase>
+  <phrase title="upload_new_custom_avatar" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прикачи нов сопствен аватар]]></phrase>
+  <phrase title="user_email_confirmation_body_html" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[<p>{username},</p>
+
+<p>За да ја завршите регистрацијата на {board_title} вие морате да го потврдите профилот со кликање на линкот подолу.</p>
+
+<p><a href="{confirm_link}">{confirm_link}</a></p>
+
+<p>Благодариме што се регистриравте,<br />
+{board_title}</p>]]></phrase>
+  <phrase title="user_email_confirmation_body_text" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username},
+
+За да ја завршите регистрацијата на {board_title} вие морате да го потврдите профилот со одење на линкот подолу.
+
+{confirm_link}
+
+Благодариме што се регистриравте,
+{board_title}]]></phrase>
+  <phrase title="user_email_confirmation_subject" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{boardTitle} - Потврдување на профилот]]></phrase>
+  <phrase title="user_is_following_you" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{user} ве следи]]></phrase>
+  <phrase title="user_is_not_following_you" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{user} не ве следи]]></phrase>
+  <phrase title="user_lost_password_body_html" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[<p>{username},</p>
+
+<p>За да ја ресетирате вашата лозинка на {board_title}, вие морате да го кликнете линкот подолу. Ова ќе создаде нова лозинка што ќе ви биде испратена во нова порака.</p>
+
+<p><a href="{confirm_link}">{confirm_link}</a></p>
+
+<p>Доколку не баравте ресетирање на лозинката, едноставно игнорирајте ја поракава.</p>
+
+<p>Поздрав,<br />
+{board_title}</p>]]></phrase>
+  <phrase title="user_lost_password_body_text" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username},
+
+За да ја ресетирате вашата лозинка на {board_title}, вие морате да го одите линкот подолу. Ова ќе создаде нова лозинка што ќе ви биде испратена во нова порака.
+
+{confirm_link}
+
+Доколку не баравте ресетирање на лозинката, едноставно игнорирајте ја поракава.
+
+Поздрав,
+{board_title}]]></phrase>
+  <phrase title="user_lost_password_reset_body_html" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[<p>{username},</p>
+
+<p>Вашата лозинка на {board_title} беше ресетирана. Можете да се најавите со лозинката прикажана подолу.</p>
+
+<p>Корисничко име: {username}<br />
+Нова лозинка: {password}</p>
+
+<p>Можете да се најавите тука:<br />
+<a href="{board_url}">{board_url}</a></p>
+
+<p>Поздрав,<br />
+{board_title}</p>]]></phrase>
+  <phrase title="user_lost_password_reset_body_text" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username},
+
+Вашата лозинка на {board_title} беше ресетирана. Можете да се најавите со лозинката прикажана подолу.
+
+Корисничко име: {username}
+Нова лозинка: {password}
+
+Можете да се најавите тука:
+{board_url}
+
+Поздрав,
+{board_title}]]></phrase>
+  <phrase title="user_lost_password_reset_subject" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{boardTitle} - Нова лозинка]]></phrase>
+  <phrase title="user_lost_password_subject" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{boardTitle} - Ресетирање на лозинка]]></phrase>
+  <phrase title="use_bb_code_editor" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Користи обичен изменувач]]></phrase>
+  <phrase title="use_custom_avatar" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Користи сопствен аватар]]></phrase>
+  <phrase title="use_default_style" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Користи го стандарниот стил]]></phrase>
+  <phrase title="use_gravatar" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Користи Gravatar]]></phrase>
+  <phrase title="use_rich_text_editor" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Користи напреден изменувач]]></phrase>
+  <phrase title="verification" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Верификација]]></phrase>
+  <phrase title="viewing_forum" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прегледува форум]]></phrase>
+  <phrase title="viewing_forum_list" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прегледува листа на форуми]]></phrase>
+  <phrase title="viewing_list_of_online_members" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прегледува листа на онлајн членови]]></phrase>
+  <phrase title="viewing_members" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прегледува членски профили]]></phrase>
+  <phrase title="viewing_thread" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прегледува тема]]></phrase>
+  <phrase title="viewing_unknown_page" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прегледува непозната страна]]></phrase>
+  <phrase title="views" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Прегледи]]></phrase>
+  <phrase title="view_all_available_trophies" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Види ги сите достапни трофеи]]></phrase>
+  <phrase title="view_conversations" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Види ги конверзациите]]></phrase>
+  <phrase title="view_results" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Види ги резултатите]]></phrase>
+  <phrase title="view_your_details_on_your_profile_page" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ги видат вашите детали на профилот]]></phrase>
+  <phrase title="view_your_identities" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Да ги видат вашите идентитети]]></phrase>
+  <phrase title="visible" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Видлива]]></phrase>
+  <phrase title="watched_threads" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Надгледувани теми]]></phrase>
+  <phrase title="watched_thread_reply_email_html" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[<p>{receiver_username},</p>
+
+<p>{username} одговори на темата "{title}".</p>
+
+<pЗа да го видите овој одговор и сите други кликнете тука:<br />
+<a href="{view_link}">{view_link}</a></p>
+
+<p>Вие нема да добивате нови пораки додека не ги прочитате новите мислења.</p>
+
+<p>------------<br />
+За подесувања на надгледуваните теми кликнете тука:<br />
+<a href="{manage_link}">{manage_link}</a></p>]]></phrase>
+  <phrase title="watched_thread_reply_email_text" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{receiver_username},
+
+{username} одговори на темата "{title}".
+
+За да го видите овој одговор и сите други кликнете тука:
+{view_link}
+
+Вие нема да добивате нови пораки додека не ги прочитате новите мислења.
+
+------------
+За подесувања на надгледуваните теми кликнете тука:
+{manage_link}]]></phrase>
+  <phrase title="watch_this_thread" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Надгледувај ја темата]]></phrase>
+  <phrase title="watch_this_thread_sentence" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Надгледувај ја темата]]></phrase>
+  <phrase title="watch_thread" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Надгледувај ја темата]]></phrase>
+  <phrase title="weeks" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[недели]]></phrase>
+  <phrase title="whats_gravatar" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Што е Gravatar?]]></phrase>
+  <phrase title="whats_new" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Што е ново?]]></phrase>
+  <phrase title="will_automatically_associate_profile_picture_home_page_etc" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вашата слика на профилот, веб-страница и другите детали ќе бидат автоматски додадени. Ќе можете да ги измените откако профилот ќе биде направен.]]></phrase>
+  <phrase title="without_receiving_email_notifications" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[без да добивате известување на е-пошта]]></phrase>
+  <phrase title="write_something" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Напиши нешто]]></phrase>
+  <phrase title="xenforo_copyright" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[<!--XF:branding-->Форум софтвер од XenForo&trade; &copy;2010 XenForo Ltd.<!--/XF:branding-->
+]]></phrase>
+  <phrase title="x_also_commented_on_ys_profile_post" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{name} исто така коментирање на <a {poster_params}>објавата на профилот</a> на {poster}]]></phrase>
+  <phrase title="x_commented_on_your_post_on_ys_profile" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{name} коментираше на <a {post_params}>вашата објава</a> на профилот на {profile}.]]></phrase>
+  <phrase title="x_commented_on_your_status" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{name} коментираше на <a {status_attributes}>вашиот статус</a>.]]></phrase>
+  <phrase title="x_commented_on_ys_post_on_your_profile" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{name} коментираше на <a {post_attributes}>објавата</a> на {poster} на вашиот профил.]]></phrase>
+  <phrase title="x_is_being_followed_by_y_members" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[{name} го следат {count} членови.]]></phrase>
+  <phrase title="x_is_following_y_members" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[{name} следи {count} членови.]]></phrase>
+  <phrase title="x_liked_your_post_in_the_thread_y" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[На {name} му/ѝ допаѓа твоето мислење во темата {title}.]]></phrase>
+  <phrase title="x_liked_your_post_on_ys_profile" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[На {name} му/ѝ се допаѓа <a {post_attributes}>твојата објава</a> на профилот на {profile}.]]></phrase>
+  <phrase title="x_liked_your_status" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[На {name} му/ѝ се допаѓа твојот <a {status_attributes}>статус</a>.]]></phrase>
+  <phrase title="x_liked_ys_post_in_the_thread_z" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[На {name} му/ѝ се допаѓа <a {posterParams}>{poster}'s мислење</a> во темата {title}.]]></phrase>
+  <phrase title="x_liked_ys_status" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[На {name} му/ѝ се допаѓа <a {status_params}>статусот</a> на {poster}]]></phrase>
+  <phrase title="x_minutes_ago" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[пред {minutes} минути]]></phrase>
+  <phrase title="x_more_messages" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[уште {count} мислења]]></phrase>
+  <phrase title="x_quoted_your_post_in_thread_y" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{name} го цитираше вашето мислење во темата {title}.]]></phrase>
+  <phrase title="x_replied_to_thread_y_may_be_more" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{name} одговори на темата {title}. Можно е да има повеќе мислења после ова.]]></phrase>
+  <phrase title="x_said" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{name} напиша]]></phrase>
+  <phrase title="x_was_last_seen" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username} последен пат беше виден како]]></phrase>
+  <phrase title="year" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[година]]></phrase>
+  <phrase title="yesterday" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[вчера]]></phrase>
+  <phrase title="yesterday_at_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[вчера во {time}]]></phrase>
+  <phrase title="yes_my_password_is" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Да, мојата лозинка е]]></phrase>
+  <phrase title="your_account" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вашиот профил]]></phrase>
+  <phrase title="your_account_does_not_have_admin_privileges" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вашиот профил нема администраторски привилегии.]]></phrase>
+  <phrase title="your_account_is_currently_awaiting_confirmation_confirmation_sent_to_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вашиот профил сеуште не потврден. Потврдата е испратена на {email}.]]></phrase>
+  <phrase title="your_alerts" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ваши известувања]]></phrase>
+  <phrase title="your_comment_will_re_open_this_report" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вашиот коментар повторно ќе ја отвори пријавата.]]></phrase>
+  <phrase title="your_content" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ваша содржина]]></phrase>
+  <phrase title="your_date_of_birth_is_required" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вашиот датум на раѓање е задолжителен.]]></phrase>
+  <phrase title="your_email_has_been_confirmed_and_your_registration_is_now_complete" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вашата е-пошта сега е потврдена и вашата регистрација е успешна.]]></phrase>
+  <phrase title="your_existing_password" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вашата сегашна лозинка]]></phrase>
+  <phrase title="your_message_has_been_posted" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вашето мислење беше испратено.]]></phrase>
+  <phrase title="your_message_has_been_sent" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вашата порака беше испратена.]]></phrase>
+  <phrase title="your_name_or_email_address" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вашето име или е-пошта]]></phrase>
+  <phrase title="your_news_feed" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ваши новости]]></phrase>
+  <phrase title="your_news_feed_is_currently_empty" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вашите новости се моментално празни.]]></phrase>
+  <phrase title="your_online_status_is_now_hidden_from_visitors" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вашиот онлајн статус сега не е видлив за другите.]]></phrase>
+  <phrase title="your_online_status_is_now_visible_to_visitors" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Другите сега можат да го видат вашиот онлајн статус.]]></phrase>
+  <phrase title="your_password_could_not_be_reset" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вашата лозинка не може да се ресетира. Ве молиме обидете се повторно.]]></phrase>
+  <phrase title="your_password_has_been_reset" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вашата лозинка беше успешно ресетирана. Новата лозинка ви беше испратена на вашата е-пошта.]]></phrase>
+  <phrase title="your_profile" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вашиот профил]]></phrase>
+  <phrase title="your_profile_page" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вашата профил страница]]></phrase>
+  <phrase title="your_status_has_been_updated" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вашиот статус беше испратен.]]></phrase>
+  <phrase title="your_thread_has_been_posted" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вашата тема беше испратена.]]></phrase>
+  <phrase title="your_vote_will_be_publicly_visible" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вашиот глас ќе биде видлив за сите.]]></phrase>
+  <phrase title="you_are_watching_this_thread_use_button_to_stop" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вие ја надгледувата оваа тема. Користете го копчето подолу ако сакате да престанете да ја надгледувата оваа тема.]]></phrase>
+  <phrase title="you_awarded_new_trophy_for_passing_milestone" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ви е доделен трофеј за проаѓање на поважен настан]]></phrase>
+  <phrase title="you_can_earn_trophies_by_carrying_out_different_actions" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вие можете да добивате трофеи со извршување на различни акции. Оваа страна прикажува листа на достапни трофеи за освојување.]]></phrase>
+  <phrase title="you_do_not_have_any_watched_threads_that_unread" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вие немате надгледувани теми што се непрочитани (содржат нови мислења).]]></phrase>
+  <phrase title="you_have_been_awarded_a_trophy_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[<strong class="subject">Вие</strong> бевте наградени со трофејот: {trophy}]]></phrase>
+  <phrase title="you_have_been_banned_for_following_reason_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Пристапот до форумот ви беше забранет.<br />
+<b>Причина</b>: {reason}.]]></phrase>
+  <phrase title="you_have_no_new_alerts" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Немате нови известувања.]]></phrase>
+  <phrase title="you_have_no_recent_conversations" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вие немате скорешни конверзации.]]></phrase>
+  <phrase title="you_may_embed_media_from_following_sites" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Можете да внесете медиа од следниве сајтови]]></phrase>
+  <phrase title="you_may_invite_up_to_x_members" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Можете да поканите до {number} членови.]]></phrase>
+  <phrase title="you_may_use_bb_code" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Можете да користите BB код]]></phrase>
+  <phrase title="you_may_view_site_in_any_of_styles_provided_here" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Можете да го прегледате сајтот со било кој од стиловите понудени тука.]]></phrase>
+  <phrase title="you_must_agree_to_terms_of_service" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Морате да се согласите со правилата и условите.]]></phrase>
+  <phrase title="you_must_agree_to_these_terms_and_rules_before_using_site" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Морате да се согласите со правилата и условите пред да го користите сајтот.]]></phrase>
+  <phrase title="you_must_verify_existing_password_before_changing" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Поради безбедносни причини, вие морате да ја потврдите вашата сегашна лозинка пред да можете да ја промените.]]></phrase>
+  <phrase title="you_sure_you_want_to_like_this_post" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Дали сте сигурни дека ви се допаѓа ова мислење?]]></phrase>
+  <phrase title="you_sure_you_want_to_mark_all_forums_read" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Дали сте сигурни дека сакате да ги означтите сите форуми како прочитани?]]></phrase>
+  <phrase title="you_sure_you_want_to_unlike_this_post" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Дали сте сигурни дека не ви се допаѓа ова мислење?]]></phrase>
+  <phrase title="you_will_receive_emails_sent_by_administrator_to_all_members" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Вие ќе ги добивате пораките испратени од администраторите до сите членови на форумот.]]></phrase>
+</language>
